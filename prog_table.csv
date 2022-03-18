@@ -1,0 +1,9 @@
+scale_degree,pronounce,Triad,Seventh
+I,one,Major,Major 7
+ii,two,Minor,Minor 7
+iii,three,Minor,Minor 7
+IV,four,Major,Major 7
+V,five,Major,Dominant 7
+vi,six,Minor,Minor 7
+vii,seven,Diminished,Minor 7 b5
+I_oct_up,one,Major,Major 7
